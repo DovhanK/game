@@ -1,10 +1,10 @@
 #Створи власний Шутер!
 from pygame import *
-from random import randint
+from random import randint 
 window = display.set_mode((700, 500))
 display.set_caption("Шутер")
 background = transform.scale(image.load("galaxy.jpg"), (700, 500))
-
+#dfghjkl;kjhgfdfcgvbhjmk,
 clock = time.Clock()
 
 mixer.init()
